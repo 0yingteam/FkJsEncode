@@ -16,7 +16,6 @@
 ```
 qq群：1081724890
 公众号：影子team
-知识星球：影子team
 blibli：影子team
 ```
 
@@ -70,15 +69,8 @@ python3
 
 ### 贡献者
 
-影子team团队
-
-影子team公众号
-
-影子team知识星球
-
 ![图片](https://user-images.githubusercontent.com/61936554/136323628-5fc45e84-297a-41f0-a3dd-b324212a78b1.png)
 
-![图片](https://user-images.githubusercontent.com/61936554/136323606-52904638-177b-415f-bbad-1842a1cf8149.png)
 
 
 
